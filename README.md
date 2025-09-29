@@ -1,5 +1,5 @@
 # CM3070-SafeBuddy
-Source code for CM3070 Final Year Project. SafeBuddy is an emergency responder app for local disaster preparedness and response. SafeBuddy combines disaster education with real-time emergency response capabilities, providing users with accessibleemergency information and response tools. The app focuses on helping users who may be living independently for the first time or are actively engaged in professional environments and daily commutes.
+Source code for CM3070 Final Year Project. SafeBuddy is an emergency responder app for local disaster preparedness and response. SafeBuddy combines disaster education with real-time emergency response capabilities, providing users with accessible emergency information and response tools. The app focuses on helping users who may be living independently for the first time or are actively engaged in professional environments and daily commutes.
 
 ## Features
 
